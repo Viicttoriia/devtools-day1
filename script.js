@@ -1,5 +1,5 @@
 // Error 1:
-let message = 'Welcome to the debugging exercise!';
+let message = "Welcome to the debugging exercise!";
 console.log(mesage); 
 
 // Error 2: 
@@ -92,4 +92,4 @@ x = 5;
 let myString = 'Hello';
 myString.property = 'World';
 console.log(myString.property); 
-
+}
