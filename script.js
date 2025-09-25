@@ -1,6 +1,6 @@
 // Error 1:
 let message = 'Welcome to the debugging exercise!';
-console.log(message); 
+console.log(mesage); 
 
 // Error 2: 
 let button = document.querySelector('.actionButton'); 
