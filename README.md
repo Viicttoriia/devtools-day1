@@ -2,7 +2,11 @@
 
 this is a forked and cloned file.
 
-## How To Notes
+## CheatSheet Links
+link for git command cheatsheet 
+"https://education.github.com/git-cheat-sheet-education.pdf"
+
+## How To Notes/ School Notes
 1. Clone the repository
 '''bash 
 git clone repo_url
@@ -13,10 +17,9 @@ git clone repo_url
 cd repo_name
 '''
 
-how to note code
+3. How to note code
 use "'''" then label code language
 break and follow up with "'''"
 
-link for command cheatsheet 
-"https://education.github.com/git-cheat-sheet-education.pdf"
+
 
