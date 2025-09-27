@@ -10,7 +10,7 @@ git clone repo_url
 
 2. Move into the folder
 '''bash
-cd na
+cd repo_name
 '''
 
 how to note code
